@@ -40,6 +40,6 @@ export const About = () => {
                     </div>
                 </section>
             </div>
-        </main>>
+        </main>
     )
 }
